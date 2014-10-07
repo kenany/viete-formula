@@ -1,6 +1,6 @@
 {
   "name": "viete-formula",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Estimate pi with Viète's formula",
   "keywords": [
     "math"
