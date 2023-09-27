@@ -6,7 +6,7 @@ the [Leibniz series][leibniz series] does.
 ## Example
 
 ``` javascript
-var vieteFormula = require('viete-formula');
+const vieteFormula = require('viete-formula');
 
 vieteFormula(28);
 // => 3.141592653589794
@@ -21,7 +21,7 @@ $ npm install viete-formula
 ## API
 
 ``` javascript
-var vieteFormula = require('viete-formula');
+const vieteFormula = require('viete-formula');
 ```
 
 ### `vieteFormula(n)`
